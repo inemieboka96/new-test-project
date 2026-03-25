@@ -7,6 +7,7 @@ This project provides a simple, lightweight static website designed to verify th
 *   **index.html**: The main entry point. It displays a confirmation message ("It Works!") to verify HTML serving.
 *   **style.css**: Contains styles to center the content and ensure CSS assets are loading properly.
 *   **script.js**: A simple script that modifies the DOM upon user interaction to verify JavaScript execution.
+*   **learn-more.html**: Provides detailed technical information about the testing environment.
 
 ## How to Use
 
